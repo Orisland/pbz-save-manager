@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+build/
+dist/
+*.spec
+*.egg-info/
+*.zip
+/新建文件夹/
+assets/*.ico
+assets/*.png

@@ -1,0 +1,15 @@
+[project]
+name = "pbz-save-manager"
+version = "1.0.0"
+description = "影之刃零存档管理器"
+requires-python = ">=3.11"
+dependencies = [
+    "cryptography>=42",
+    "unicorn>=2",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-dir]
+"" = "src"

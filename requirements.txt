@@ -1,0 +1,4 @@
+cryptography>=42
+unicorn>=2
+pyinstaller>=6
+pillow>=10
